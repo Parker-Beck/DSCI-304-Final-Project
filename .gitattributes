@@ -1,0 +1,9 @@
+MonthlyCasesInteractive.html filter=lfs diff=lfs merge=lfs -text
+MonthlyDeathsInteractive.html filter=lfs diff=lfs merge=lfs -text
+DailyDeaths.html filter=lfs diff=lfs merge=lfs -text
+LeftLegendDeaths.html filter=lfs diff=lfs merge=lfs -text
+CasesSpelledCorrectly.html filter=lfs diff=lfs merge=lfs -text
+StateCases.html filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
+CasesOverTime.html filter=lfs diff=lfs merge=lfs -text
+CasesOverTimeInteractive.html filter=lfs diff=lfs merge=lfs -text
